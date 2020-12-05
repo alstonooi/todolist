@@ -1,2 +1,2 @@
 # todolist
-This is a todolist written in Javascript
+This is a simple todolist written in Javascript
